@@ -1,7 +1,6 @@
 pandas
 wordcloud
 matplotlib
-base64
 python-dateutil
 taipy
 taipy-gui
