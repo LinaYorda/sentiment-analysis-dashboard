@@ -3,7 +3,7 @@
 This project analyzes the sentiment of articles from German news outlets during the first year of the Russia-Ukraine war. The application allows users to select different news sources and visualize sentiment scores through various charts. A table with articles from the following media websites is included: Der Spiegel, Die Welt, Bild, and Süddeutsche Zeitung. [Taipy](https://taipy.io) is used for building the interactive dashboard. 
 
 
-![Demo](giphy.gif)
+![Demo](giphy.GIF)
 
 
 
