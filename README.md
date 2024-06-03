@@ -57,7 +57,8 @@ To run this sentiment analysis project locally and visualize the results through
 
 
 ### Prerequisites
-
+- Git
+- Git LFS (Large File Storage)
 - Python 3.7+
 - `pip` (Python package installer)
 
