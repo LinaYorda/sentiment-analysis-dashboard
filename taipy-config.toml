@@ -1,0 +1,6 @@
+[TAIPY]
+app_title = "My Taipy App"
+root_module = "main"
+
+[TAIPY.CLOUD]
+default = true
